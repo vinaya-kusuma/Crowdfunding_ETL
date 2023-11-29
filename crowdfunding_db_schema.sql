@@ -33,7 +33,7 @@ CREATE TABLE "campaign" (
     "cf_id" INTEGER   NOT NULL,
     "contact_id" INTEGER   NOT NULL,
     "company_name" VARCHAR(100)   NOT NULL,
-    "description" TEXT(150)   NOT NULL,
+    "description" VARCHAR(150)   NOT NULL,
     "goal" Float   NOT NULL,
     "pledged" Float   NOT NULL,
     "outcome" VARCHAR(15)   NOT NULL,
