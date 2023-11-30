@@ -23,6 +23,9 @@ Create the Crowdfunding Database
 - ERD.png
 - Verification.sql
 
+# Note 
+- We have created the contacts dataframe using both the options but we have commented the code for option 2 - using regex
+
 # Screenshot of campaign csv file
 
 <img width="926" alt="image" src="https://github.com/vinaya-kusuma/Crowdfunding_ETL/assets/143301151/b1c6622f-1e82-469d-9605-97420c77ba2e">
